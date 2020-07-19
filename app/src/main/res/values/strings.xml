@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">KotlinExpandable</string>
+
+    <string-array name="chapter">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+        <item>Chapter 5</item>
+        <item>Chapter 6</item>
+        <item>Chapter 7</item>
+        <item>Chapter 8</item>
+        <item>Chapter 9</item>
+        <item>Chapter 10</item>
+    </string-array>
+
+    <string-array name="chapter1">
+        <item>Section 1</item>
+        <item>Section 2</item>
+        <item>Section 3</item>
+    </string-array>
+
+
+
+    <string-array name="chapter2">
+        <item>Section 4</item>
+        <item>Section 5</item>
+        <item>Section 6</item>
+    </string-array>
+
+    <string-array name="chapter3">
+        <item>Section 7</item>
+        <item>Section 8</item>
+        <item>Section 9</item>
+    </string-array>
+
+    <string-array name="chapter4">
+        <item>Section 10</item>
+    </string-array>
+
+
+</resources>
